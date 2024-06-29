@@ -1,6 +1,6 @@
 /*
-ZeroTwo-MD V1.0 
- Coded By VihangaYT
+DENKING-BOT V1.0 
+ Coded By Denking
 
 Modified File : admin.js
 Modified Date : 8/23/2023
