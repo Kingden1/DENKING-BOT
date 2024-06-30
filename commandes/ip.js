@@ -1,6 +1,6 @@
 /*
-ZeroTwo-MD V1.0 
- Coded By VihangaYT
+Denking-Bot V1.0 
+ Coded By Denking
 
 Modified File : ip.js
 Modified Date : 8/23/2023
