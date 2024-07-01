@@ -1,5 +1,5 @@
 /*
-ZeroTwo-MD V1.0 
+Denking-BotV1.0 
  Coded By VihangaYT
 
 Modified File : toanime.js
