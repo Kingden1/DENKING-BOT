@@ -1,6 +1,6 @@
 /*
-ZeroTwo-MD V1.0 
- Coded By VihangaYT
+Denking-BotV1.0 
+ Coded By denking 
 
 Modified File : sticker.js
 Modified Date : 8/23/2023
