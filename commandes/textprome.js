@@ -1,6 +1,5 @@
-/*
-ZeroTwo-MD V1.0 
- Coded By VihangaYT
+/*Denking-bot V1.0 
+ Coded By denking
 
 Modified File : textprome.js
 Modified Date : 8/23/2023
