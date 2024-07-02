@@ -25,7 +25,7 @@
 ## Support 🧧 🧧 🧧 🧧
 ## Join my group for updates and get free cc
 <a href="https://chat.whatsapp.com/Cxdepa0BrLd62ZOe8QAE2U" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me/message/254725099642">
+   <a href="https://wa.me/254725099642">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
@@ -47,7 +47,7 @@ HOW TO REACH THE OWNER?
 
 1, Star the repo up there then click Here To  [`FORK`](https://github.com/Kingden1/DENKING-BOT/fork)
 
-2, TAP ON IBRAHIM TECH APP DOWN THERE
+2, TAP ON DENKING TECH APP DOWN THERE
 
 
 
@@ -55,7 +55,7 @@ HOW TO REACH THE OWNER?
 
 
 
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Denking Tech App..
 
 ## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  DENKING-BOT
 
@@ -64,7 +64,7 @@ HOW TO REACH THE OWNER?
 
  <h1 align="center">
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://github.com/Kingden1-AI/DEPLOYMENT-SITE)***
+  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://github.com/IBRAHIM-TECH-AI/DEPLOYMENT-SITE)***
 
 
 
