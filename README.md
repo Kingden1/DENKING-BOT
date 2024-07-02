@@ -1,20 +1,20 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> BMW X5 MD </h1>
+ <h1 align="center"> DENKING-BOT </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝗕𝗠𝗪+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗜𝗕𝗥𝗔𝗛𝗜𝗠)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+DENKING+BOT+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+DENKING)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
+<p align="center"> DENKING-BOT💥, A Simple WhatsApp user BOT, Created by Denking Tech.
 </p>
 <p align="center">
 
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/3c753002fab985c1cb1e7.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/557f1309a0005c937db7e.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SESSION SITE 
 
@@ -23,8 +23,8 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Support 🧧 🧧 🧧 🧧
-## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+## Join my group for updates and get free cc
+<a href="https://chat.whatsapp.com/Cxdepa0BrLd62ZOe8QAE2U" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -33,7 +33,7 @@
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me/message/74F2PC4JA4F3P1">
+   <a href="https://wa.me/message/254725099642">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
@@ -45,7 +45,7 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/BMW-MD/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/Kingden1/DENKING-BOT/fork)
 
 2, TAP ON IBRAHIM TECH APP DOWN THERE
 
@@ -57,14 +57,14 @@ HOW TO REACH THE OWNER?
 
 4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
 
-## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙈𝙒 𝙈𝘿
+## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  DENKING-BOT
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  <h1 align="center">
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://github.com/IBRAHIM-TECH-AI/DEPLOYMENT-SITE)***
+  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://github.com/Kingden1-AI/DEPLOYMENT-SITE)***
 
 
 
@@ -80,14 +80,14 @@ HOW TO REACH THE OWNER?
 ## Contributions
 
 
-Contributions to *BMW-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *DENKING-BOT* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## THANKS TO [GOD]
-
+##THANKS TO [JAYDEN-OFFICIAL] 
 ## License
 
-The *BMW-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *DENKING-BOT* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *BMW-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by Ibrahim Tech
+Enjoy the diverse features of the *DENKING-BOT*  to enhance your Whatsapp more enjoyable
+☣Powered by DENKING Tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
